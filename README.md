@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Kazi Imam Hossain 👋
 
+🌱 I’m currently learning Full Stack Web Development (MERN)
+- I'm very passionate about programming. ❤
+
+## Connect with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iampias/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/i_am_pias)  
+
+**[My Resume](https://drive.google.com/drive/folders/14vbOBkbFnaJySfu7tOYZof4ka1sDHXLK?usp=sharing)**
 <!--
 **ImPias/ImPIas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
